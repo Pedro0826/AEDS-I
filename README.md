@@ -1,1 +1,1 @@
-Atividades feitas durante os Laboratórios e em casa.
+Atividades feitas durante os laboratórios e em casa.
